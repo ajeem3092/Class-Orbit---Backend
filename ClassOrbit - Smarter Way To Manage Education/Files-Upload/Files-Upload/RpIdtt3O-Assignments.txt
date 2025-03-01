@@ -1,0 +1,58 @@
+Assignments
+
+Java
+
+1. Create a Car class with the following attributes: make (String), model (String), year (int), and speed (int).
+   Implement methods: accelerate(), brake(), displayCarInfo().
+
+2. Create a Rectangle class with attributes length and width. Implement methods to calculate the area and perimeter. Create a Square    class that inherits from Rectangle. The Square class should only need a side attribute. Override the area and perimeter methods to be specific to squares.
+
+3. Create a Student class with attributes name (String) and courses. Create a Course class with attributes courseName (String) and            instructor (String).
+Implement methods: Student.enroll(Course c), Student.drop(Course c), Student.displayEnrolledCourses()
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Database
+
+1. Create a table named Students with the following columns: StudentID (INT, Primary Key), Name (VARCHAR(50)), Age (INT), and Major (VARCHAR(50)).
+Insert at least 5 sample student records.
+Write SQL queries to:
+Retrieve all students.
+Retrieve students older than 20.
+Retrieve students majoring in "Computer Science".
+Retrieve students sorted by age
+
+2. Use the Students table from the previous exercise (or create it if you skipped that one).
+Write SQL queries to:
+Update the major of a specific student.
+Add a new student record.
+Delete a student record based on ID.
+
+3. Use the Students table (or create it).
+Write SQL queries to:
+Find the average age of all students.
+Count the number of students in each major.
+Find the maximum and minimum age among students.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Web based technology
+
+1. Create an HTML file with the following elements:
+A <h1> heading with a title.
+A paragraph (<p>) with some text.
+An image (<img>) with a specified source and alt text.
+A list (either ordered <ol> or unordered <ul>) with at least three list items (<li>).
+A link (<a>) to an external website.
+
+2. Create an HTML form with the following elements:
+A text input field for a name.
+An email input field.
+A password input field.
+A submit button.
+(Optional) A radio button group or a select dropdown.
+Add CSS to style the form elements.
+
+3. Take the form from the previous exercise and add some JavaScript:
+Use an alert() to display a message when the form is submitted (for now, don't worry about actual form processing).
+(Optional) Use JavaScript to validate a form field (e.g., check if the email field is valid).

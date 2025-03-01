@@ -1,0 +1,12 @@
+Notice board
+
+Sr. No	  Module Name	  Date	        Description
+
+
+2	   Java	         2025-02-10	Session on Exception Handling
+
+3	  Python	 2025-02-11	Project Work Begins
+
+4	 Web Design	 2025-02-12	Introduction to Responsive Design
+
+5	  SQL	         2025-02-13	Lab Session on Database Normalization
